@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paresh-singh/static/css/main.fc5c2c69.css",
+    "main.js": "/paresh-singh/static/js/main.9a263e9e.js",
+    "index.html": "/paresh-singh/index.html",
+    "main.fc5c2c69.css.map": "/paresh-singh/static/css/main.fc5c2c69.css.map",
+    "main.9a263e9e.js.map": "/paresh-singh/static/js/main.9a263e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9a263e9e.js"
+  ]
+}
